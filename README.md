@@ -12,6 +12,18 @@ The objective of this app is to create a CRUD customer list with a RESTful API. 
 This app uses localhost:5000 for REST Api, 3000 front-end client and mongod for local mongodb server.
 
 # Screenshots 
+
+<h3>Home Screen </h3>
+<img src="./ScreenShots/Main Page.png">
+
+<h3>Add Screen </h3>
 <img src="./ScreenShots/Add Customer.png">
 
-<h3> testing
+<h3>Edit Screen </h3>
+<img src="./ScreenShots/Edit Customer.png">
+
+<h3>Delte Screen </h3>
+<img src="./ScreenShots/Delete Customer.png">
+
+
+
