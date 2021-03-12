@@ -8,7 +8,7 @@
     "focus-trap-react": "^6.0.0",
     "popper.js": "^1.12.9",
     "react": "^16.8.6",
-    "react-dev-utils": "^9.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
     "react-transition-group": "^4.0.1",
